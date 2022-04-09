@@ -11,13 +11,13 @@ public class ArithmaticOperations {
 	int y=sc.nextInt();
 	//perform arithmetic operations.
 	int sum             =x+y;
-	int difference      =x-y;
+	int subtraction     =x-y;
 	int product         =x*y;
 	int quotient        =x/y;
 	int modulo          =x%y;
 	//print result to console.
 	System.out.println("sum       :"    +sum);
-	System.out.println("difference:"    +difference);
+	System.out.println("difference:"    +subtraction);
 	System.out.println("product   :"    +product     );
 	System.out.println("quotient  :"    +quotient);
 	System.out.println("modulo    :"    +modulo);
